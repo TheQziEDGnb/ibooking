@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>图书馆预约占座管理系统后台管理</title>
+    <title>自习室座位预约管理系统后台管理</title>
     <script type="text/javascript">
     var url;
 	$(function(){
@@ -216,7 +216,7 @@
 
 
 <div region="south" style="height: 25px;padding: 5px;" align="center">
-	图书馆预约占座管理系统
+	自习室座位预约管理系统
 </div>
 
 <div id="dlg" class="easyui-dialog" style="width: 400px;height: 220px;padding: 10px 20px" 

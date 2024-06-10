@@ -40,7 +40,7 @@
 			<li class="middle_C"><span class="btn"> <img alt="" src="images/login/btnlogin.gif" onclick="javascript:document.getElementById('form1').submit()"/> </span>&nbsp;&nbsp;<span ><font color="red">${error }</font></span></li>
 			<li class="middle_D"></li>
 			<li class="bottom_A"></li>
-			<li class="bottom_B">复旦大学图书馆预约占座管理系统</li>
+			<li class="bottom_B">自习室座位预约管理系统</li>
 		</ul>
 	</div>
 </form>
